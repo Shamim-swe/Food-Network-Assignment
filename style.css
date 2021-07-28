@@ -38,10 +38,151 @@ h6{
     background-repeat: no-repeat;
     background-size:100%;
     max-height:700px;
+    display:flex;
 }
 .myself img{
     width:30%;
     height:50vh;
+    padding-left:350px;
+    padding-right: 30px;
 
 
+}
+.about-myself{
+    width: 50%;
+    padding-top:200px;
+    padding-left: 30px;
+
+}
+.about-myself h1{
+    padding-top: 100px;
+}
+.about-myself p{
+    max-width: 500px;
+    padding-top:4px;
+
+}
+.link-list{
+    text-decoration: none;
+    background-image: linear-gradient(orange, rgb(8, 138, 57)); 
+    border-radius: 10px 20px;
+    padding: 10px 24px;
+    color:oldlace;
+    margin-top: 20px;
+   
+}
+
+.diet-recipies h1{
+    text-align: center;
+}
+.diet-recipies h4{
+text-align: center;
+max-width: 500px;
+padding-left: 550px;
+}
+.diet-test{
+    display: flex;
+    
+}
+.diet-test img{
+    width:80%;
+    margin:10px;
+    padding-left: 10px;
+}
+diet-test h4{
+    text-align: center;
+    max-width:500px;
+    word-wrap:break-word;
+}
+.diet-test1{
+    box-shadow: 10px 20px 30px rgb(165, 154, 154);
+    width: 35%;
+    margin: 3px;
+    border-radius: 12px;
+    
+}
+
+.diet-test2{
+    box-shadow: 10px 20px 30px rgb(190, 182, 182);
+    width: 35%;
+    margin: 3px;
+    border-radius: 12px;
+}
+.diet-test3{
+    box-shadow: 10px 20px 30px rgb(184, 179, 179);
+    width: 35%;
+    margin: 3px;
+    border-radius: 12px;
+}
+.extra-part{
+    display: flex;
+   border-radius: 15px;
+    border:4px solid rgba(230, 223, 223, 0.74);
+    margin-top: 10%;
+   
+    text-align: center;
+    height: 150px;
+    box-shadow: 10px 10px 20px rgba(230, 223, 223, 0.74) ;
+    
+}
+.extra1{
+    width: 30%;
+   
+}
+.extra2{
+    width: 30%;
+  
+}
+
+.extra3{
+    width: 30%;
+    
+}
+#network{
+    color:chartreuse;
+    
+}
+footer{
+    font-size: 40px;
+    text-align: center;
+    background-color: black;
+    height: 200px;
+    color:blanchedalmond;
+    
+}
+footer h6{
+   padding-left: 600px;
+   padding-bottom: 50px;
+}
+#pizza{
+    padding-top: 20px;
+}
+.bonus{
+    
+    margin:10px;
+    height: 500px;
+}
+.bonus h2{
+    text-align: center;
+}
+.bonus img{
+   
+    margin-left: 20px;
+    margin-right: 20px;
+    padding-left: 30px;
+    padding-right: 30px;
+    width: 400px;
+}
+.bonus-part{
+    display: flex;
+    width: 97%;
+    padding: 10px;
+    height: 400px;
+    margin-right: 10px;
+   
+    justify-content: center;
+    transition: 2s;
+}
+.pizza-hub:hover{
+    transform: scale(0.9);
 }
