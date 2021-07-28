@@ -1,0 +1,47 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.diet p{
+    font-size: 50px;
+    
+}
+h6{
+    max-width: 500px;
+}
+.first-diet{
+    margin:10px;
+    padding-left: 50px;
+}
+#orange{
+ color:orange;
+}
+.diet{
+    display: flex;
+    height:700px;
+    
+}
+.diet img{
+    width: 50%;
+    padding-left: 350px;
+}
+.link-button{
+    text-decoration:none;
+    background-image:linear-gradient(orange, red);
+    border-radius: 10px;
+    padding:10px;
+    color:oldlace;
+}
+
+.myself{
+    background-image: url("images/shapes/p.png");
+    
+    background-repeat: no-repeat;
+    background-size:100%;
+    max-height:700px;
+}
+.myself img{
+    width:30%;
+    height:50vh;
+
+
+}
