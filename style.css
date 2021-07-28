@@ -43,8 +43,8 @@ h6{
 .myself img{
     width:30%;
     height:50vh;
-    padding-left:350px;
-    padding-right: 30px;
+    padding-left:200px;
+    padding-right: 20px;
 
 
 }
@@ -54,9 +54,7 @@ h6{
     padding-left: 30px;
 
 }
-.about-myself h1{
-    padding-top: 100px;
-}
+
 .about-myself p{
     max-width: 500px;
     padding-top:4px;
@@ -78,7 +76,7 @@ h6{
 .diet-recipies h4{
 text-align: center;
 max-width: 500px;
-padding-left: 550px;
+padding-left: 450px;
 }
 .diet-test{
     display: flex;
@@ -91,8 +89,9 @@ padding-left: 550px;
 }
 diet-test h4{
     text-align: center;
-    max-width:500px;
+    max-width:300px;
     word-wrap:break-word;
+    padding-right: 70px;
 }
 .diet-test1{
     box-shadow: 10px 20px 30px rgb(165, 154, 154);
@@ -151,7 +150,7 @@ footer{
     
 }
 footer h6{
-   padding-left: 600px;
+   padding-left: 420px;
    padding-bottom: 50px;
 }
 #pizza{
@@ -171,7 +170,7 @@ footer h6{
     margin-right: 20px;
     padding-left: 30px;
     padding-right: 30px;
-    width: 400px;
+    width: 300px;
 }
 .bonus-part{
     display: flex;
